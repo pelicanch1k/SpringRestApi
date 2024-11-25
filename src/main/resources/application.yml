@@ -1,0 +1,6 @@
+psql:
+  username: postgres
+  host: localhost
+  dbname: postgres
+  password: root
+  port: 5433
